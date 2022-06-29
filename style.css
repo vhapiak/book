@@ -15,6 +15,9 @@ p {
     margin: 0;
 }
 
-div.speech p::before {
-    content: '— ';
+.msg p {
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+    text-align: center;
+    font-style: italic;
 }
