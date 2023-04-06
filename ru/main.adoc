@@ -1,4 +1,4 @@
-:stylesheet: style.css
+:stylesheet: ../style.css
 
 :sectnums:
 :toc:
